@@ -24,7 +24,6 @@
 
 	body {
 		line-height: 1;
-		background-image: url("webdesign.jpg");
 	}
 
 	ol, ul {
@@ -47,7 +46,6 @@
 
 	body {
 		-webkit-text-size-adjust: none;
-		background-image: url("webdesign.jpg");
 	}
 
 /* Box Model */
@@ -1869,7 +1867,7 @@
 		}
 
 			table.default tbody tr:nth-child(2n+2) {
-				background: #f4f4f4;
+				background-image: url("webdesign.jpg");
 			}
 
 			table.default td {
@@ -2185,7 +2183,8 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../w.jpg")
+>>>>>>> 72fcc244964b3d78aa4bb10d962f131f9324631c
 			}
 
 			#main > section.two {
