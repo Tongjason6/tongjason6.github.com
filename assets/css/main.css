@@ -2183,7 +2183,11 @@
 
 			#main > section.one {
 				background-color: #81918E;
+<<<<<<< HEAD
 				background-image: url("../../w.jpg");
+=======
+				background-image: url("../../web.jpg");
+>>>>>>> 72fcc244964b3d78aa4bb10d962f131f9324631c
 			}
 
 			#main > section.two {
